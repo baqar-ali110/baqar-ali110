@@ -15,7 +15,8 @@ with a focus on mastering TypeScript and Next.js
 - **Frameworks**: React, Next.js, Node.js
 - **Tools**: Git, VS Code
 
-- 📫 How to reach me
+## Contact
+📫 How to reach me?
 Feel free to reach out via email or connect with me on LinkedIn!
 - [soomro.baqar110@gmail.com]
 - LinkedIn: coming soon
