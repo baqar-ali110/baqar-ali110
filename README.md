@@ -12,7 +12,7 @@ with a focus on mastering TypeScript and Next.js
 
 ## Skills
 - **Languages**: TypeScript, JavaScript, HTML, CSS
-- **Frameworks**: React, Next.js, Node.js
+- **Frameworks**: React, Next.js, Node.js, Tailwindcss
 - **Tools**: Git, VS Code
 
 ## Contact
