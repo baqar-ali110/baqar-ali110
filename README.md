@@ -11,9 +11,10 @@ with a focus on mastering TypeScript and Next.js
 - ⚡ Fun fact: I often solve coding puzzles for fun and relaxation.
 
 ## Skills
-- **Languages**: TypeScript, JavaScript, HTML, CSS
-- **Frameworks**: React, Next.js, Node.js, Tailwindcss
-- **Tools**: Git, VS Code
+- **Languages**: TypeScript, JavaScript, Python (Currently Learning)  
+- **Web Technologies**: HTML, CSS  
+- **Frameworks**: React, Next.js, Node.js, Tailwind CSS  
+- **Tools**: Git, VS Code  
 
 ## Contact
 📫 How to reach me?
